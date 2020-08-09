@@ -1,6 +1,6 @@
 ## Proffy :octocat:
 
-An application that connects teachers with students. Built during
+An application that connects teachers with students. Built during Next Level Week.
 
 
 ### `yarn start`
