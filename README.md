@@ -1,6 +1,6 @@
 ## Proffy :octocat:
 
-An application that connects teachers
+An application that connects teachers with
 
 
 ### `yarn start`
