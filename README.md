@@ -2,6 +2,8 @@
 
 An application that connects teachers with students. Built during Next Level Week.
 
+application in development
+
 
 ### `yarn start`
 
