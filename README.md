@@ -1,6 +1,6 @@
 ## Proffy :octocat:
 
-An application
+An application that connects
 
 
 ### `yarn start`
